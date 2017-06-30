@@ -1,0 +1,4 @@
+AuthName "Veuillez vous identifier"
+AuthType Basic
+AuthUserFile "/home/pelodie/garden-party/user/.htpasswd"
+Require valid-user

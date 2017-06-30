@@ -1,0 +1,4 @@
+AuthName "Veuillez vous identifier"
+AuthType Basic
+AuthUserFile "/home/bmelissa/blog/user/.htpasswd"
+Require valid-user
